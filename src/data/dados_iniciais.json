@@ -1,25 +1,25 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "React Beginner",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Formação React js",
+        "url": "https://www.alura.com.br/formacao-react-js"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que é React JS",
+          "url": "https://www.youtube.com/watch?v=6IuQUgeDPg0"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "React JS - MELHOR GUIA para Iniciantes! (2020)",
+          "url": "https://www.youtube.com/watch?v=Ws9WVHhNq5M"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Speedrun: Do Zero ao React",
+          "url": "https://www.youtube.com/watch?v=5MzOCxSWrrc"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
@@ -44,10 +44,10 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "React Intermediate",
+      "cor": "#F7B541",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "React Intermediario",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -74,8 +74,8 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "React Advanced",
+      "cor": "#A476EF",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -100,8 +100,8 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "React Native",
+      "cor": "#38A399",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -122,37 +122,37 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "React Full-Courses",
+      "cor": "#FF4433",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "ReactJS",
+          "url": "https://www.youtube.com/watch?v=C8M94QLJy0o&list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Learn React JS - Full Course",
+          "url": "https://www.youtube.com/watch?v=DLX62G4lc44"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Learn React.js in 4 Hours",
+          "url": "https://www.youtube.com/watch?v=fSp2C7QPH8M"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "React Crash Course 2020",
+          "url": "https://www.youtube.com/watch?v=mACw_G-okPE"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Full Stack React & Firebase Tutorial",
+          "url": "https://www.youtube.com/watch?v=m_u6P5k0vP0"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Alura Playlists",
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
@@ -160,24 +160,24 @@
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "HTML e CSS?",
+          "url": "https://www.youtube.com/watch?v=ql0-0_taZpk&list=PLh2Y_pKOa4UfHbRqfiiI4uWik2MOKHRfL"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Programando em JavaScript",
+          "url": "https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Inteligência Artificial e Ciência de Dados",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&list=PLh2Y_pKOa4Udq6kx9Y_jFbLG9tpYrIKJ5"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Front-end e JavaScript",
+          "url": "https://www.youtube.com/watch?v=4cEMgap9wpk&list=PLh2Y_pKOa4UfqvVbrcC6Xm44lIx0f4yDa"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Iniciante em programação, dúvidas gerais",
+          "url": "https://www.youtube.com/watch?v=AG8cYHCbGcg&list=PLh2Y_pKOa4UcBRWcWAEp4d4M7INLCec1f"
         }
       ]
     }
